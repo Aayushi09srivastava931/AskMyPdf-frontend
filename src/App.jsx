@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Enigma Chatbot</h1>
+        <h1>AskMyPdf Chatbot</h1>
         <p>Upload a PDF and ask questions about it</p>
       </header>
       
